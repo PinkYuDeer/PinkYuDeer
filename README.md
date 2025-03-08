@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PinkYuDeer
 - 👀 I’m interested in study
 - 🌱 I’m currently learning all of language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me qq2206300302
+- 💞️ I’m looking to collaborate on GTNH-MCMOD
+- 📫 How to reach me pinkyudeer@outlook.com
 
 <!---
 PinkYuDeer/PinkYuDeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
